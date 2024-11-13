@@ -83,6 +83,9 @@ The main entry point that manages the game state (e.g., number of players, curre
 ### `Board.js`
 The game board component responsible for rendering the grid and handling player actions on the board.
 
+### `Cell.js`
+The game board cell component responsible for rendering the boxes corresponding to rows and columns in the board.
+
 ### `App.css`
 The CSS file that includes styles for both light and dark themes, animations for the winner's celebration, and other UI components.
 
