@@ -3,7 +3,7 @@
 ## Description
 The Chain Reaction Game is a multiplayer strategy game where players take turns to occupy cells on a grid, trying to eliminate other players. The game supports multiple players, themes (dark and light mode), and includes sound effects for interactions and winning. The objective is to be the last player remaining after eliminating all others.
 
-#Preview
+# Preview
 https://sujan2332.github.io/ChainReaction/
 
 ## Features
