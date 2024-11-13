@@ -151,15 +151,15 @@ function App() {
         <>
           {winner !== null ? (
             <div className="winner-celebration">
-              <h4
+              <h6
                 style={{
-                  fontSize: '3rem',
+                  fontSize: '1.8rem',
                   color: allPlayers[winner].color,
                   animation: 'winnerAnimation 3s ease-in-out' // Added animation
                 }}
               >
-                🎉 Player {winner + 1} <br />({allPlayers[winner].color}) <br />Wins! 🎉
-              </h4>
+                🎉🎉🎉 <br /> 🌟Player {winner + 1}🌟<br />💎💎({allPlayers[winner].color.toUpperCase()})💎💎<br/>💥💥💥Wins !!!💥💥💥 <br />🎉🎉🎉
+              </h6>
               <p style={{ fontSize: '1.5rem' }}>Congratulations! You've conquered all your opponents!</p>
             </div>
           ) : (
