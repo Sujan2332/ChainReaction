@@ -30,23 +30,8 @@ To get started with this project, follow these steps:
 3. **Install dependencies:**
 
    ```bash
-   npm install 
-
-To get started with this project, follow these steps:
-
-1. **Clone the repository:**
-
-    ```bash
-   git clone https://github.com/sujan2332/ChainReaction.git
+   npm install
    
-2. **Navigate into the project directory:**
-
-   ```bash
-   cd ChainReaction
-   
-3. **Install dependencies:**
-
-
 4. **Run the application:**
 
    ```bash
