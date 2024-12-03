@@ -93,9 +93,11 @@ npm start
 ## *📚 Learn More*
 ### *Components Breakdown:*
 
-*App.js: Manages game logic, player turns, and the overall UI.
-Board.js: Dynamically generates the game grid and tracks cell states.
-Cell.js: Handles cell-specific interactions and animations.*
+*App.js: Manages game logic, player turns, and the overall UI.*
+
+*Board.js: Dynamically generates the game grid and tracks cell states.*
+
+*Cell.js: Handles cell-specific interactions and animations.*
 
 ## *💡 Pro Tips for Developers*
 *Customize Sound Effects: Replace .wav and .mp3 files in src/assets for a personal touch.
