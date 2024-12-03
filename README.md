@@ -6,8 +6,9 @@
 
 *The Chain Reaction Game is a thrilling multiplayer strategy game where your every move can spark a chain reaction—literally! Compete against friends (up to 10 players), conquer cells, and eliminate opponents one by one. It's a battle of wits, timing, and strategy to become the last player standing.*
 
-## *🎉 Ready to experience strategy like never before?*
-## *Play Now!*
+## *🎉 Ready to experience strategy like never before? Play Now!*
+## *📸 Preview*
+*https://sujan2332/Chain-Reaction/* 
 
 ## *🌟 Features*
 
@@ -88,10 +89,6 @@ Eliminate all other players to emerge victorious!*
 
 ### *💥 Smooth Animations*
 *Watch as your cells explode into vibrant chain reactions.*
-
-## *📸 Preview*
-*A Sneak Peek of the Action*
-https://sujan2332/Chain-Reaction/
 
 ## *📚 Learn More*
 ### *Components Breakdown:*
