@@ -74,8 +74,8 @@ The game board cell component responsible for rendering the boxes corresponding 
 ### `App.css`
 The CSS file that includes styles for both light and dark themes, animations for the winner's celebration, and other UI components.
 
-##File Structure
-
+## File Structure
+```
 chain-reaction-game/
 ├── public/
 │   ├── index.html
@@ -92,6 +92,7 @@ chain-reaction-game/
 ├── package.json
 ├── README.md
 └── .gitignore
+```
 
 ## License
 
