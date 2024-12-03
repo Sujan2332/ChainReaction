@@ -15,7 +15,7 @@
 ### *🤝 Multiplayer Madness*
 *Supports 2 to 10 players for endless fun.*
 
-### *🎨 Dynamic Themes
+### *🎨 Dynamic Themes*
 *Switch between Dark Mode 🌙 and Light Mode ☀️ with a single click.*
 
 ### *🔊 Immersive Sound Effects*
