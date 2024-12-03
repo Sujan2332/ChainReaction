@@ -8,7 +8,7 @@
 
 ## *🎉 Ready to experience strategy like never before? Play Now!*
 ## *📸 Preview*
-*https://sujan2332/Chain-Reaction/* 
+*https://sujan2332.github.io/Chain-Reaction/* 
 
 ## *🌟 Features*
 
