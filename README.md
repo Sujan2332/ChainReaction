@@ -1,4 +1,4 @@
-# *⚛️ Chain Reaction Game 
+# ⚛️ *Chain Reaction Game*
 
 ### *🎮 Strategy Meets Chaos: Outsmart, Overpower, and Dominate the Grid!*
 
