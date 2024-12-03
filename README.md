@@ -43,19 +43,19 @@ Eliminate all other players to emerge victorious!*
 
 ### *Clone the repository:*
 ```
-*git clone https://github.com/sujan2332/ChainReaction.git*
+git clone https://github.com/sujan2332/ChainReaction.git
  ```
 ### *Navigate to the project directory:*
 ```
-*cd ChainReaction*  
+cd ChainReaction
 ```
 ### *Install the dependencies:*
 ```
-*npm install*
+npm install
 ```
 ### *Start the application:*
 ```
-*npm start*  
+npm start  
 ```
 *This will launch the development server and open the game in your browser.*
 
