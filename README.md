@@ -107,7 +107,7 @@ Scale the Grid: Modify grid size in Board.js for advanced gameplay.*
 *Feel free to fork, modify, and make it your own!*
 
 ### *⚡Built with love, logic, and a little chaos. Happy gaming! 🎮*
-### * By Sujan2332*
+###  *By Sujan2332*
 
 # *🎉 License*
 ### *This project is licensed under the MIT License.*
