@@ -1,5 +1,5 @@
 # *⚛️ Chain Reaction Game*
-## *🎮 Strategy Meets Chaos: Outsmart, Overpower, and Dominate the Grid!*
+## *--Strategy Meets Chaos: Outsmart, Overpower, and Dominate the Grid!*
 
 ## *🌀 About the Game*
 
